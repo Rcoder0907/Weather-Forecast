@@ -1,6 +1,7 @@
 <h1 align="center">Weather Forecast</h1> 
 
-![Weather Forecast cover](https://user-images.githubusercontent.com/91532881/166434542-76727ccb-0c98-4646-84fb-58e86d7ec3ff.png)
+![Weather Forecast cover](https://github.com/Rcoder0907/Weather-Forecast/assets/51422440/0a0e9aed-d982-487a-af80-17a4a4c76d6e)
+
 
 <h2 align="center">Web application to show the current and upcoming week weather forecast.</h2>    
 
@@ -55,18 +56,10 @@ To use the app, type a name of the city and click on search/press Enter or else 
 
 
 
-![Mobile responsive](https://user-images.githubusercontent.com/91532881/166426445-3aeee29c-bca7-4d95-a082-70269bb192fd.png)
 
-![weatherforecasting](https://user-images.githubusercontent.com/91532881/166334689-ac7807e2-6d40-4a8f-b232-c53955f6ea03.png)
+<img width="1587" alt="Screenshot 2023-07-22 at 4 02 01 AM" src="https://github.com/Rcoder0907/Weather-Forecast/assets/51422440/72355873-f818-460e-a45c-70539a7cb551">
 
-![weatherforecasting2](https://user-images.githubusercontent.com/91532881/166334796-48e0faa6-3e3c-46e5-9cd1-857da895379d.png)
-
-<br />
-
-## Demo
-
-https://user-images.githubusercontent.com/91532881/166426542-b271be2e-e7d9-4b3c-bfe7-5e9e51e26be4.mp4
-
+<img width="1639" alt="Screenshot 2023-07-22 at 4 02 24 AM" src="https://github.com/Rcoder0907/Weather-Forecast/assets/51422440/057634f7-631f-49c8-ba79-0d709c18e224">
 
 <br/>
 
