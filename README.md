@@ -17,7 +17,7 @@
 
      
     
-  <h3 align="center"><a href="https://rcoder-weather-app.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
+  <h3 align="center"><a href="https://weather-forecast-rcoder.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
    
     
   <p align="center"> 
@@ -106,14 +106,14 @@ Install Yarn
 
 Check that you have node and yarn installed
 
-To check if you have Node.js installed, run this command in your terminal:
+To check if you have `Node.js`` installed, run this command in your terminal:
 
 
 ```
 node -v
 ```
 
-To confirm that you have npm installed you can run this command in your terminal:
+To confirm that you have `yarn` installed you can run this command in your terminal:
 
 
 ```
@@ -149,7 +149,7 @@ yarn run dev
 
 If you want to contact me, you can reach me on
 
-[rcoder0907@gmail.com](mailTo:rcoder0907@gmail.com)
+[rcoder123@gmail.com](mailTo:rcoder123@gmail.com)
 
 
 ## Show your support
